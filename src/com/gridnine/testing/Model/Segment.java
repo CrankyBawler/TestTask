@@ -1,6 +1,5 @@
-package Model;
+package com.gridnine.testing.Model;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.Objects;
 
